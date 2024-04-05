@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    max-width: 1500px;
+    margin: 0.1rem auto;
+}
+
+.hero {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
